@@ -5,9 +5,9 @@
 In this project, I have analyzed local temperatures of San Jose(USA) and global temperature data and compared the temperature trends in San Jose to global temperature trends.
 
 ### Tools used
-SQL - To extract data from the database.
-Excel - Calculate the moving average, correlation coefficient, and plotting the line chart.
-Google documents - Writing the project report.
+* SQL - To extract data from the database.
+* Excel - Calculate the moving average, correlation coefficient, and plotting the line chart.
+* Google documents - Writing the project report.
 
 ### Procedure
 1. Extract data from the database and export it to a CSV file. 
